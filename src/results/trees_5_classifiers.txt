@@ -1,0 +1,52 @@
+Evolutionary Forest 5 classifiers
+Population size: 1000
+Max depth: 15
+Crossover rate: 0.7
+Mutation rate: 0.4
+Number of elites: 50
+Number of classifiers: 10
+Early stopping patiance: 20
+Training sample size: 1303
+Initial temperature: 1
+Cooling rate: 0.999
+Minimum temperature: 0.1
+Number of species: 10
+                                          _____________________________________________9?VIP?>?0.65_____________
+                                         /                                                                      \
+                  ________________0?Age?>?-0.95___________________                                       ___4?Spa?==?0.0___
+                 /                                                \                                     /                  \
+     ____5?VRDeck?>?-0.0___                          ____1?RoomService?==?4.75___                   -1?True              -1?True
+    /                      \                        /                            \
+-1?False                 -1?False               -1?False                       -1?True
+
+
+                   ___________________8?Destination?<?0.36__________________
+                  /                                                         \
+     ___6?HomePlanet?!=?0.55___                                 ___1?RoomService?!=?-0.0___
+    /                          \                               /                           \
+-1?True                      -1?False                      -1?True                       -1?False
+
+
+                    __________________9?VIP?>?0.38_______________
+                   /                                             \
+     ____7?CryoSleep?!=?0.25___                         ____5?VRDeck?>?6.8___
+    /                          \                       /                     \
+-1?False                     -1?False              -1?False                -1?True
+
+
+                                              _____________________________________________9?VIP?>?0.38________________
+                                             /                                                                         \
+                    __________________0?Age?>?-0.95___________________                                       ___2?FoodCourt?<?0.0___
+                   /                                                  \                                     /                       \
+     ___3?ShoppingMall?>?0.46___                         ____1?RoomService?==?4.75___                   -1?True                   -1?False
+    /                           \                       /                            \
+-1?True                       -1?True               -1?False                       -1?True
+
+
+                                          _____________________________________________9?VIP?>?0.65_____________
+                                         /                                                                      \
+                  ________________0?Age?>?-0.95___________________                                       ___4?Spa?==?0.0___
+                 /                                                \                                     /                  \
+     ____5?VRDeck?>?-0.0___                          ____1?RoomService?==?4.75___                   -1?True              -1?True
+    /                      \                        /                            \
+-1?False                 -1?False               -1?False                       -1?True

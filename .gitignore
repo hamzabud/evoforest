@@ -1,0 +1,10 @@
+
+src/evolutionary_forest.log
+*.log
+/src/__pycache__
+/src_old
+/Litterature
+/archived
+/.idea
+/__pycache__
+/.ipynb_checkpoints

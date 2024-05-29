@@ -1,0 +1,87 @@
+Evolutionary Forest 10 classifiers
+Population size: 1000
+Max depth: 15
+Crossover rate: 0.7
+Mutation rate: 0.4
+Number of elites: 50
+Number of classifiers: 10
+Early stopping patiance: 20
+Training sample size: 1303
+Initial temperature: 1
+Cooling rate: 0.999
+Minimum temperature: 0.1
+Number of species: 10
+                                              _________________9?VIP?>?0.77__________________
+                                             /                                               \
+                   __________________5?VRDeck?==?-0.0___                         ____1?RoomService?<?2.57___
+                  /                                     \                       /                           \
+     ____2?FoodCourt?!=?0.0___                        -1?False              -1?False                      -1?False
+    /                         \
+-1?False                    -1?False
+
+
+                ______________5?VRDeck?!=?11.34_____________
+               /                                            \
+     ____9?VIP?>?0.23___                             ___4?Spa?==?0.0___
+    /                   \                           /                  \
+-1?False              -1?True                   -1?True              -1?True
+
+
+                ______________5?VRDeck?<?-0.0______________
+               /                                           \
+     ____9?VIP?>?0.23___                           ___0?Age?==?-0.0___
+    /                   \                         /                   \
+-1?False              -1?True                 -1?True               -1?True
+
+
+                ______________5?VRDeck?<?-0.0_________________
+               /                                              \
+     ___0?Age?==?-0.0___                           ____2?FoodCourt?!=?0.0___
+    /                   \                         /                         \
+-1?True               -1?True                 -1?False                    -1?False
+
+
+                ______________0?Age?!=?2.08______________________________________________
+               /                                                                         \
+     ____9?VIP?>?0.23___                                       _________________3?ShoppingMall?==?0.0_______________
+    /                   \                                     /                                                     \
+-1?False              -1?True                    ____5?VRDeck?!=?13.27___                                  ____4?Spa?<?10.07___
+                                                /                        \                                /                    \
+                                            -1?False                   -1?False                       -1?False               -1?True
+
+
+                                               _________________9?VIP?>?0.77_____________
+                                              /                                          \
+                    __________________5?VRDeck?==?-0.0___                         ___4?Spa?==?0.0___
+                   /                                     \                       /                  \
+     ___3?ShoppingMall?!=?0.0___                       -1?False              -1?True              -1?True
+    /                           \
+-1?True                       -1?True
+
+
+                   _________________0?Age?!=?2.08________________
+                  /                                              \
+     ___6?HomePlanet?>?0.55___                         ____5?VRDeck?!=?-0.0___
+    /                         \                       /                       \
+-1?True                     -1?True               -1?False                  -1?True
+
+
+                   _________________2?FoodCourt?>?0.0_________________
+                  /                                                   \
+     ____5?VRDeck?!=?13.27___                              ___8?Destination?>?0.87___
+    /                        \                            /                          \
+-1?False                   -1?False                   -1?True                      -1?False
+
+
+                ______________5?VRDeck?<?-0.0______________
+               /                                           \
+     ____9?VIP?>?0.23___                           ___0?Age?==?-0.0___
+    /                   \                         /                   \
+-1?False              -1?True                 -1?True               -1?True
+
+
+               ______________0?Age?!=?2.08_________________
+              /                                            \
+     ___4?Spa?!=?0.0___                         ___6?HomePlanet?>?0.55___
+    /                  \                       /                         \
+-1?True              -1?True               -1?True                     -1?True
