@@ -1,22 +1,24 @@
+# EvoForest
 
-# Welcome!
+## Overview
 
-The src folder contains the source code for the simulation.
+EvoForest is a simulation tool designed to facilitate experiments and analysis in the context of evolutionary algorithms and forest modeling. This repository contains all necessary scripts, datasets, and visualization outputs to support the experiments presented in the associated research paper.
 
-## Version 1
+## Repository Structure
 
-This is the version where we compare the performance of evolving a forest using **Scikit-learn** trees. The code is in the `src` folder.
-Experiments can be found in the [experiments notebook](https://github.com/hamzabud/thesis/blob/main/src/experiments.ipynb).
+### `src` Folder
 
-### Current Status
+The `src` folder contains the core source code for the simulation. This includes:
 
-Complete and stable. The performance is meh, and the prediction accuracy is sometimes comparable to the Scikit-learn trees and sometimes not.
+- **Simulation Logic (tree.py)**: The main evolutionary framework.
+- **Experiment Scripts**: Individual scripts tailored to run specific experiments for each dataset.
+- **Datasets**: The datasets used in the experiments.
 
-## Version 2
+### `plots` Folder
 
-This is the version where we compare the performance of evolving a forest by building custom trees (essentially random) and evolving them. The code is in the `src_v2` folder.
-Experiments can be found in the [experiments notebook](https://github.com/hamzabud/thesis/blob/main/src_v2/experiments.ipynb).
+The `plots` folder contains all the visual outputs generated from the experiments. This includes:
 
-### Current Status
+- **Plots**: Visualizations created from the experimental data.
+- **Miscellaneous Figures**: Other figures used in the paper for illustrative purposes.
 
-The build is stable, and the performance is not too bad, but the prediction accuracy is not as good as the Scikit-learn trees.
+---
