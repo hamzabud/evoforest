@@ -2,7 +2,7 @@
 
 ## Overview
 
-EvoForest is a simulation tool designed to facilitate experiments and analysis in the context of evolutionary algorithms and forest modeling. This repository contains all necessary scripts, datasets, and visualization outputs to support the experiments presented in the associated research paper.
+EvoForest is a simulation tool designed to facilitate experiments and analysis in the context of evolutionary algorithms and forest modeling. This repository contains all necessary scripts, datasets, and visualization outputs to support the experiments presented in the associated thesis.
 
 ## Repository Structure
 
