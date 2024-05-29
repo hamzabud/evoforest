@@ -13,6 +13,7 @@ The `src` folder contains the core source code for the simulation. This includes
 - **Simulation Logic (tree.py)**: The main evolutionary framework.
 - **Experiment Scripts**: Individual scripts tailored to run specific experiments for each dataset.
 - **Datasets**: The datasets used in the experiments.
+- **Results**: The results from the experiments in CSV files.
 
 ### `plots` Folder
 
